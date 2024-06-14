@@ -9,20 +9,15 @@ This project involves sampling credit card data to create a balanced dataset for
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Dataset](#dataset)
-3. [Evaluation Metrics](#evaluation-metrics)
-4. [Results](#results)
-5. [Conclusion](#conclusion)
-6. [Usage](#usage)
+2. [Evaluation Metrics](#evaluation-metrics)
+3. [Results](#results)
+4. [Conclusion](#conclusion)
+5. [Usage](#usage)
 
 
 ## Introduction
 
 Credit card datasets often suffer from class imbalance, where fraudulent transactions are significantly outnumbered by non-fraudulent ones. This project applies various sampling techniques to balance the dataset, improving the performance of machine learning models in detecting fraudulent transactions.
-
-## Dataset
-
-The dataset used in this project is the [Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) from Kaggle, which contains transactions made by credit cards in September 2013 by European cardholders. It includes 31 features and 284,807 transactions, of which 492 are fraudulent.
   
 ## Evaluation Metrics
 
